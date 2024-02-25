@@ -1,5 +1,5 @@
 # SAUDI SWIFT SAT
-##Graduation Project
+Graduation Project
 Integrating an Intelligent CubeSat with Blockchain Technology for Sustainable Environmental
 Monitoring
 I work on the artificial intelligence side of the project, as we trained the YOLO algorithm to
